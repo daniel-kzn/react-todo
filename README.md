@@ -13,3 +13,11 @@ Une application todo-list réalisé en TSX.
 - [x] : Installation des dépendances
 - [x] : Suppression des fichiers inutile
 - [x] : Structuration des fichiers & Composants
+
+- [] : add Board =>
+- [] : add Board
+- [] : add CompteurList
+- [] : add CompteurCard
+
+- [] : add TodoList =>
+- [] : add TodoCard
