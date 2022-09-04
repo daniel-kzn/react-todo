@@ -11,4 +11,5 @@ Une application todo-list réalisé en TSX.
 
 - [x] : Setup repo github
 - [x] : Installation des dépendances
+- [x] : Suppression des fichiers inutile
 - [] : Création des différants composants
